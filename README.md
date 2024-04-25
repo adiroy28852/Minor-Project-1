@@ -31,3 +31,5 @@ and refer to tutorial from -
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLeM_d8ZXiMCP1el4oT591FQWlF2FdSfMN)
 
 The research paper explains what masks and process are taken on the image to find the GLCM matrix. A "decent" hardware is recommended.
+
+Tried models have been uploaded in both .ipynb and .py
