@@ -28,6 +28,6 @@ For building the Cellprofiler Pipeline, download application from -
 
 and refer to tutorial from - 
 
-[Youtube Playlist]https://www.youtube.com/playlist?list=PLeM_d8ZXiMCP1el4oT591FQWlF2FdSfMN
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLeM_d8ZXiMCP1el4oT591FQWlF2FdSfMN)
 
 The research paper explains what masks and process are taken on the image to find the GLCM matrix. A "decent" hardware is recommended.
